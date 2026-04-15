@@ -6,3 +6,5 @@ target/
 
 # системный файл macOS — создаётся сам
 .DS_Store
+
+.idea/
